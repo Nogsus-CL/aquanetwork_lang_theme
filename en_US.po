@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Mint"
 msgstr "Mint"
@@ -10641,3 +10641,39 @@ msgstr "Please review the job offer on Aquanetwork's website"
 
 msgid "You can also share our social networks"
 msgstr "You are also welcome to share our social networks"
+
+msgid "Do you accept"
+msgstr "Do you accept"
+
+msgid "Are you the age of majority"
+msgstr "Are you the age of majority?"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy?"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions?"
+
+msgid "Leave Reason"
+msgstr "Leave Reason"
+
+msgid "Last Names"
+msgstr "Last Names"
+
+msgid "I certify that I have a legal work permit in"
+msgstr "I certify that I have a legal work permit in"
+
+msgid "Date of Birth"
+msgstr "Date of Birth"
+
+msgid "Date you can start"
+msgstr "Date you can start"
+
+msgid "I am Available"
+msgstr "I am Available"
+
+msgid "Certificate Name"
+msgstr "Certificate Name"
+
+msgid "Company name (enter valid and current information)"
+msgstr "Company name (enter valid and current information)"

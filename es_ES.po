@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: POT-Creation-Date:PO-Revision-Date:Last-Translator:Language-Team:Language: es_ES\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Mint"
 msgstr "Mint"
@@ -498,7 +498,7 @@ msgid "System unable to update record into table"
 msgstr "El sistema no puede actualizar registro en la tabla "
 
 msgid "Pleae make sure your database user have update permissions"
-msgstr "Por favor asegúrese de que su usuario de base de datos tiene permisos  para actualizar"
+msgstr "Por favor asegúrese de que su usuario de base de datos tiene permisos para actualizar"
 
 msgid "Delete Record In Table"
 msgstr "Eliminar registro en la tabla"
@@ -1680,7 +1680,7 @@ msgid "Job Seeker Control Panel Links"
 msgstr "Enlaces del Control Panel del Candidato"
 
 msgid "Applied Resume Status Update Mail Send To Job Seeker"
-msgstr "Estado del CV Aplicado, Enviar Correo Electrónico de Actualización al candidato "
+msgstr "Estado del CV Aplicado, Enviar Correo Electrónico de Actualización al candidato"
 
 msgid "Job Seeker Buy Package"
 msgstr "Paquete de Compra del Candidato"
@@ -6837,7 +6837,7 @@ msgid "filesize is greater then allowed fileszie"
 msgstr "El tamaño del archivo es superior al tamaño permitido"
 
 msgid "finally click on the submit button to finish setting up your cron job."
-msgstr "Finalmente click sobre el botón enviar para finalizar la configuración de su trabajo cron"
+msgstr "finalmente click sobre el botón enviar para finalizar la configuración de su trabajo cron"
 
 msgid "folder name"
 msgstr "Nombre de carpeta"
@@ -6951,13 +6951,13 @@ msgid "hot jobs"
 msgstr "Empleos urgentes"
 
 msgid "how many plugin jobs show before career builder jobs"
-msgstr "Cuántos empleos del complemento se mostrarán antes de los empleos de  career builder"
+msgstr "cuántos empleos del complemento se mostrarán antes de los empleos de career builder"
 
 msgid "how many plugin jobs show before indeed jobs"
-msgstr "Cuántos empleos del complemento se mostrarán ates de los empleos de indeed"
+msgstr "cuántos empleos del complemento se mostrarán ates de los empleos de indeed"
 
 msgid "how many sub categories show in popup on 'job/resume by category' page"
-msgstr "Cuántas subcategorías se muestran en emergente en la página 'trabajo / CV por categoría'"
+msgstr "cuántas subcategorías se muestran en emergente en la página 'trabajo / CV por categoría'"
 
 msgid "how much credits required for"
 msgstr "Cuántos créditos se requieren para"
@@ -7173,16 +7173,16 @@ msgid "job seo"
 msgstr "Seo del empleo"
 
 msgid "job seo options are title, company, category, location, jobtype"
-msgstr "Las opciones para el seo de empleo son título, empresa, categoría, ubicación, tipo de empleo"
+msgstr "opciones para el seo de empleo son título, empresa, categoría, ubicación, tipo de empleo"
 
 msgid "job shift"
 msgstr "Turno de trabajo"
 
 msgid "job short list setting effects on job listing pages"
-msgstr "La efectos de configuración al listar empleos sobre la página de lista de empleos"
+msgstr "efectos de configuración al listar empleos sobre la página de lista de empleos"
 
 msgid "job short list setting effects on jobs listing page"
-msgstr "La efectos de configuración al listar empleos sobre la página de lista de empleos"
+msgstr "efectos de configuración al listar empleos sobre la página de lista de empleos"
 
 msgid "job short listed"
 msgstr "Listado de empleo"
@@ -7692,25 +7692,25 @@ msgid "please first make a selection from the list"
 msgstr "Por favor, primero haga una selección de la lista"
 
 msgid "please first save resume personal section then add any other section"
-msgstr "Por favor, primero guarde el CV en la sección personal y luego agregue cualquier otra sección"
+msgstr "por favor, primero guarde el CV en la sección personal y luego agregue cualquier otra sección"
 
 msgid "please make sure you have enabled curl library"
 msgstr "Por favor, asegúrese que tenga habilitada la librería curl"
 
 msgid "please make sure your database user have create table permissions"
-msgstr "Por favor, asegúrese que el usuario de la base de datos tenga los permisos para crear tabla"
+msgstr "por favor, asegúrese que el usuario de la base de datos tenga los permisos para crear tabla"
 
 msgid "please make sure your database user have delete permissions"
-msgstr "Por favor, asegúrese que el usuario de la base de datos tenga permisos para eliminar"
+msgstr "por favor, asegúrese que el usuario de la base de datos tenga permisos para eliminar"
 
 msgid "please make sure your database user have drop table permissions"
 msgstr "por favor, asegúrese de que su usuario de la base de datos tenga permisos para colocar tablas"
 
 msgid "please make sure your database user have inserting permissions"
-msgstr "Por favor, asegúrese de que su usuario de la base de datos tenga permisos de insertar"
+msgstr "por favor, asegúrese de que su usuario de la base de datos tenga permisos de insertar"
 
 msgid "please make sure your database user have update permissions"
-msgstr "Por favor, asegúrese de que su usuario de la base de datos tenga los permisos de actualizar"
+msgstr "por favor, asegúrese de que su usuario de la base de datos tenga los permisos de actualizar"
 
 msgid "please select a resume first"
 msgstr "Por favor, seleccione un CV primero"
@@ -7815,7 +7815,7 @@ msgid "reference zip code"
 msgstr "Código postal de referencia"
 
 msgid "regiestration is disabled by admin, please contact system administrator"
-msgstr "Registrarse está deshabilitado por el administradro, por favor, contacte al administrador del sistema"
+msgstr "La opción de registro está deshabilitado, por favor contacte al administrador del sistema"
 
 msgid "register new account"
 msgstr "Registrar nueva cuenta"
@@ -7854,7 +7854,7 @@ msgid "removed for gold"
 msgstr "Eliminado para oro"
 
 msgid "requested page is not available contact system administrator"
-msgstr "Página solicitada no está disponible, contacte al administrador del sistema"
+msgstr "la página solicitada no está disponible, contacte al administrador del sistema"
 
 msgid "resume approve or reject"
 msgstr "CV aprobado o rechazado"
@@ -8064,28 +8064,28 @@ msgid "SEO"
 msgstr "SEO"
 
 msgid "set company seo options are name, category, location"
-msgstr "Las opciones SEO que se colocan en la empresa son: nombre, categoría, ubicación"
+msgstr "las opciones SEO que se colocan en la empresa son: nombre, categoría, ubicación"
 
 msgid "set map height for plugin"
-msgstr "Colocar la altura del mapa para el complemento"
+msgstr "colocar la altura del mapa para el complemento"
 
 msgid "set number of tags to show in result of the tag input box"
-msgstr "Colocar la cantidad de etiquetas a mostrar en el resultado de la bandeja de entrada de etiqueta"
+msgstr "colocar la cantidad de etiquetas a mostrar en el resultado de la bandeja de entrada de etiqueta"
 
 msgid "share this job"
-msgstr "Compartir este empleo"
+msgstr "compartir este empleo"
 
 msgid "shared on social media"
-msgstr "Compartido en medios sociales"
+msgstr "compartido en medios sociales"
 
 msgid "shared on social media successfully"
-msgstr "Compartido en medios sociales satisfactoriamente"
+msgstr "compartido en medios sociales satisfactoriamente"
 
 msgid "shared with a friend successfully"
-msgstr "Compartido con un amigo satisfactoriamente"
+msgstr "compartido con un amigo satisfactoriamente"
 
 msgid "shorlisted"
-msgstr "Listado"
+msgstr "listado"
 
 msgid "short code"
 msgstr "Código corto"
@@ -8211,10 +8211,10 @@ msgid "show login logout button"
 msgstr "Mostrar el boton de ingresar y salir"
 
 msgid "show login logout button in job seeker control panel"
-msgstr "Mostrar el botón de ingresar y salir en el panel de control del candidato "
+msgstr "mostrar el botón de ingresar y salir en el panel de control del candidato "
 
 msgid "show login option to visitor on job apply"
-msgstr "Mostrar la opción de inicio de sesión para el visitante en la solicitud de empleo"
+msgstr "mostrar la opción de inicio de sesión para el visitante en la solicitud de empleo"
 
 msgid "show login page"
 msgstr "Mostrar la página de inicio de sesión"
@@ -8331,7 +8331,7 @@ msgid "system slug"
 msgstr "Slug del sistema"
 
 msgid "system will not upload if resume file size exceeds than given size"
-msgstr "El sistema no se cargará si el tamaño del archivo de CV excede el tamaño especificado"
+msgstr "el sistema no se cargará si el tamaño del archivo de CV excede el tamaño especificado"
 
 msgid "tablet"
 msgstr "Tableta"
@@ -8349,7 +8349,7 @@ msgid "tags"
 msgstr "Etiquetas"
 
 msgid "tell a friend setting effects on jobs listing page"
-msgstr "Efecto de configuración de dile a un amigo en la página de listado de empleos"
+msgstr "efecto de configuración de dile a un amigo en la página de listado de empleos"
 
 msgid "tell to friend"
 msgstr "Dile a un amigo"
@@ -8589,7 +8589,7 @@ msgid "with resume"
 msgstr "Con CV"
 
 msgid "woocommerce product not found, please contact to system administrator"
-msgstr "No se encontró el producto en Woocommerce, por favor, contacte al administrador del sistema"
+msgstr "no se encontró el producto en Woocommerce, por favor, contacte al administrador del sistema"
 
 msgid "woocommerce settings"
 msgstr "Configuraciones de Woocommerce"
@@ -8652,7 +8652,7 @@ msgid "you have applied for"
 msgstr "Usted ha aplicado para"
 
 msgid "you have insufficient credits, you can not perform this action"
-msgstr "Usted tiene insuficientes créditos, usted no puede ejecutar esta acción"
+msgstr "usted tiene insuficientes créditos, usted no puede ejecutar esta acción"
 
 msgid "you have paid to view contact detail of company"
 msgstr "Ha pagado para ver los detalles de contacto de la compañía"
@@ -8706,10 +8706,10 @@ msgid "you can define expiry date of action.i.e"
 msgstr "Usted puede definir fecha de caducidad de la acción. Ejemplo:"
 
 msgid "show number of categories per row in 'job/resume by category' page"
-msgstr "Mostrar cantidad de categorías por fila en la página de 'empleo / CV por categoría'"
+msgstr "mostrar cantidad de categorías por fila en la página de 'empleo / CV por categoría'"
 
 msgid "show number of job types per row on 'job by type' page"
-msgstr "Mostrar cantidad de tipos de empleo por fila en la página de 'empleo por tipo'"
+msgstr "mostrar cantidad de tipos de empleo por fila en la página de 'empleo por tipo'"
 
 msgid "opss..."
 msgstr "Lo sentimos"
@@ -8718,7 +8718,7 @@ msgid "postion for search icon on jobs listing page."
 msgstr "Posición para el icono de buscar en la página de listado de empleos"
 
 msgid "select credits pack so that user can purchase them."
-msgstr "Seleccione el paquete de créditos para que el usuario pueda comprarlos."
+msgstr "seleccione el paquete de créditos para que el usuario pueda comprarlos."
 
 msgid "license no."
 msgstr "Licencia No."
@@ -8808,7 +8808,7 @@ msgid "as its much more cost-effective."
 msgstr "Es mucho más rentable"
 
 msgid "comma separated list of categories i.e accounting, management etc"
-msgstr "Lista de categorías separadas por comas, es decir, contabilidad, gestión, etc."
+msgstr "lista de categorías separadas por comas, es decir, contabilidad, gestión, etc."
 
 msgid "comma separated list of job types i.e full time, part time etc"
 msgstr "lista separada por comas de tipos de trabajo, es decir, tiempo completo, tiempo parcial, etc."
@@ -9045,7 +9045,7 @@ msgid "Pages"
 msgstr "Páginas"
 
 msgid "How to shown the rumors."
-msgstr "Cómo mostrar los rumores."
+msgstr "Cómo mostrar los consejos profesionales."
 
 msgid "Jobs search"
 msgstr "Búsqueda de empleo"
@@ -9240,7 +9240,34 @@ msgid "Short description for price table shown below the heading."
 msgstr "Breve descripción de la tabla de precios que se muestra debajo del encabezado."
 
 msgid "News and rumors"
-msgstr "Noticias y rumores"
+msgstr "Consejos profesionales"
+
+msgid "News & Rumors"
+msgstr "Consejos profesionales"
+
+msgid "Add New News & Rumor"
+msgstr "Agregar nuevos Consejos profesionales"
+
+msgid "Edit news & rumor"
+msgstr "Editar Consejos profesionales"
+
+msgid "New news & rumor"
+msgstr "Nuevos Consejos profesionales"
+
+msgid "All news & rumor"
+msgstr "Todos los consejos profesionales"
+
+msgid "View news & rumor"
+msgstr "Ver consejos profesionales"
+
+msgid "Search News & Rumors"
+msgstr "Buscar Consejos profesionales"
+
+msgid "No news & rumor found"
+msgstr "Ningún consejo profesionale encontrado"
+
+msgid "No news & rumor found in Trash"
+msgstr "Ningún consejo profesionale encontrado en la papelera"
 
 msgid "without pagination"
 msgstr "sin paginación"
@@ -9261,7 +9288,7 @@ msgid "Bottom Link"
 msgstr "Enlace inferior"
 
 msgid "Set the bottom link for news and rumors."
-msgstr "Establezca el enlace inferior para noticias y rumores."
+msgstr "Establezca el enlace inferior para consejos profesionales."
 
 msgid "Slide style"
 msgstr "Estilo de diapositiva"
@@ -9270,7 +9297,7 @@ msgid "Single news slide"
 msgstr "Diapositiva única de noticias"
 
 msgid "How to slide News and Rumers."
-msgstr "Cómo deslizar Noticias y rumores."
+msgstr "Cómo deslizar los Consejos profesionales."
 
 msgid "Slide speed"
 msgstr "Velocidad de deslizamiento"
@@ -9282,7 +9309,7 @@ msgid "News per page"
 msgstr "Noticias por página"
 
 msgid "Heading for the news and rumors section."
-msgstr "Rumbo a la sección de noticias y rumores."
+msgstr "Título la sección de consejos profesionales."
 
 msgid "Sub Heading"
 msgstr "Subtítulo"
@@ -9291,10 +9318,10 @@ msgid "Listed Blogs"
 msgstr "Blogs listados"
 
 msgid "Sub Heading for the news and rumors section."
-msgstr "Subtítulo para la sección de noticias y rumores."
+msgstr "Subtítulo para la sección de consejos profesionales."
 
 msgid "Short description for news and rumors shown below the heading."
-msgstr "Breve descripción de las noticias y rumores que se muestran debajo del título."
+msgstr "Breve descripción de las consejos profesionales que se muestran debajo del título."
 
 msgid "Testimonials"
 msgstr "Testimonios"
@@ -9303,7 +9330,7 @@ msgid "Kind Words From"
 msgstr "Palabras amables de"
 
 msgid "Heading for the testimonials section."
-msgstr "Rumbo a la sección de testimonios."
+msgstr "Título de la sección de testimonios."
 
 msgid "Happy Candidates"
 msgstr "Candidatos felices"
@@ -9408,7 +9435,7 @@ msgid "Show number of jobs on page, for show more button"
 msgstr "Mostrar número de trabajos en la página, para mostrar más botón"
 
 msgid "Heading for the jobs section."
-msgstr "Rumbo a la sección de empleos."
+msgstr "Título de la sección de empleos."
 
 msgid "Sub Heading for the jobs section."
 msgstr "Subtítulo para la sección de trabajos."
@@ -9495,7 +9522,7 @@ msgid "Short description for featured box shown below the heading."
 msgstr "Breve descripción del cuadro destacado que se muestra debajo del título."
 
 msgid "Heading for the featured jobs section."
-msgstr "Rumbo a la sección de trabajos destacados."
+msgstr "Título de la sección de trabajos destacados."
 
 msgid "Sub Heading for the featured jobs section."
 msgstr "Subtítulo para la sección de trabajos destacados."
@@ -9576,7 +9603,7 @@ msgid "Our Team Members"
 msgstr "Los miembros de nuestro equipo"
 
 msgid "Heading for the team members section."
-msgstr "Rumbo a la sección de miembros del equipo."
+msgstr "Título de la sección de miembros del equipo."
 
 msgid "Short description for team members shown below the heading."
 msgstr "Breve descripción de los miembros del equipo que se muestra debajo del encabezado."
@@ -9603,7 +9630,7 @@ msgid "Appear in right side of content area"
 msgstr "Aparecer en el lado derecho del área de contenido"
 
 msgid "Appear in right side of news and rumors"
-msgstr "Aparecer en el lado derecho de noticias y rumores."
+msgstr "Aparecer en el lado derecho de consejos profesionales."
 
 msgid "Footer 1"
 msgstr "Pie de página 1"
@@ -10410,40 +10437,40 @@ msgid "Required language is not installed but similar language like"
 msgstr "El idioma requerido no está instalado pero un lenguaje similar como"
 
 msgid "Dir is not writable"
-msgstr "Dir no se puede escribir"
+msgstr "El directorio no tiene permisos de escritura"
 
 msgid "minute ago"
-msgstr "Hace un minuto"
+msgstr "hace un minuto"
 
 msgid "minutes ago"
-msgstr "minutes ago"
+msgstr "hace minutos"
 
 msgid "hour ago"
-msgstr "Hace una hora"
+msgstr "hace una hora"
 
 msgid "hours ago"
-msgstr "hours ago"
+msgstr "hace horas"
 
 msgid "day ago"
-msgstr "Hace un dia"
+msgstr "hace un dia"
 
 msgid "week ago"
-msgstr "Hace una semana"
+msgstr "hace una semana"
 
 msgid "weeks ago"
-msgstr "weeks ago"
+msgstr "hace semanas"
 
 msgid "month ago"
-msgstr "Hace un mes"
+msgstr "hace un mes"
 
 msgid "months ago"
-msgstr "months ago"
+msgstr "hace meses"
 
 msgid "year ago"
-msgstr "Hace años"
+msgstr "hace un año"
 
 msgid "years ago"
-msgstr "years ago"
+msgstr "hace años"
 
 msgid "You have not answered all required fields"
 msgstr "No ha respondido todos los campos obligatorios"
@@ -10454,20 +10481,38 @@ msgstr "Tu no tienes ningún rol"
 msgid "Lost your password"
 msgstr "Perdiste tu contraseña"
 
-msgid "Share this job offer by"
-msgstr "Comparte esta oferta por"
+msgid "Do you accept"
+msgstr "¿Acepta"
 
-msgid "Send this job offer to one of your contacts via"
-msgstr "Envía esta oferta de trabajo a uno de tus contactos vía"
+msgid "Are you the age of majority"
+msgstr "¿Es usted mayor de edad?"
 
-msgid "Or via WhatsApp"
-msgstr "O vía WhatsApp"
+msgid "Privacy Policy"
+msgstr "la normas de Política y Privacidad?"
 
-msgid "Send this offer"
-msgstr "Enviar esta oferta"
+msgid "Terms and Conditions"
+msgstr "los Términos y Condiciones?"
 
-msgid "Check the following job offer at Aquanetwork website"
-msgstr "Revisa la siguiente oferta de trabajo en el sitio Aqua Network"
+msgid "Leave Reason"
+msgstr "Razón para abandonar"
 
-msgid "You can also share our social networks"
-msgstr "Puedes compartir esta información mediante tus redes sociales"
+msgid "Last Names"
+msgstr "Apellidos"
+
+msgid "I certify that I have a legal work permit in"
+msgstr "Certifico que tengo un permiso de trabajo legal en"
+
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+msgid "Date you can start"
+msgstr "Fecha en la que puede comenzar"
+
+msgid "I am Available"
+msgstr "Estoy disponible"
+
+msgid "Certificate Name"
+msgstr "Nombre del certificado"
+
+msgid "Company name (enter valid and current information)"
+msgstr "Nombre de empresa (ingrese información válida y actual)"
